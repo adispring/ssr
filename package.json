@@ -1,4 +1,9 @@
 {
+  "name": "ssr",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "babel-node -- server/index.js"
+  },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
